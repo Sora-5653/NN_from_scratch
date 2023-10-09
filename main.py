@@ -101,3 +101,4 @@ def get_accuracy_value(Y_hat, Y):
 #↓コピペ
 
 #oct. 9。やっぱ休憩。
+#could commit with ssh! brilliant!!
